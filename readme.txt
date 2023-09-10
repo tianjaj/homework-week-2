@@ -1,2 +1,2 @@
 Developer: Tianhang Hu
-This is for week 1 homework
+This is for week 2 homework
