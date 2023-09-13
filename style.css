@@ -16,6 +16,10 @@
             background: no-repeat lightgrey url(cliff_rock.jpg);
             background-size: 1500px;
         }
+        #cliffs header {
+            background: no-repeat lightgrey url(forest_cliff.jpg);
+            background-size: 1500px;
+        }
         .main-header {
             background-color:rgb(255, 255, 255, 0.8);
             width: 700px;
@@ -232,3 +236,26 @@
             float: right;
             background-color: #4977D1;
         }
+        #cliffs div.image-header{
+            background: #852B1B;
+            height: 40px;
+            color: #fff;
+            font-size: 1.3em;
+            font-weight: bold;
+            padding-top: 1em;
+            width: 29%;
+            display: flex;
+            flex-direction: column;
+        }
+        #cliffs p {
+            font-weight:bolder;
+        }
+        #cliffs div.image-source1, #cliffs div.image-source2 {
+            display: inline-block;
+        }
+        #cliffs div.image-source3, #cliffs div.image-source4 {
+            display: inline-block;
+        }
+        #cliffs div.image-source1,#cliffs div.image-source2,#cliffs div.image-source3,#cliffs div.image-source4 {
+            position: relative;
+          }
